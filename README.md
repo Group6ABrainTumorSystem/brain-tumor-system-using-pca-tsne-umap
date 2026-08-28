@@ -161,10 +161,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## Author
+## Authors
 
-**Kofi Takyi Agyeman**
-Mobile and Machine Learning Engineer, Accra, Ghana
-
-- GitHub: [@kofi-takyi-agyeman](https://github.com/kofi-takyi-agyeman)
-- Email: takyikelvin23@gmail.com
+**Abdulai Haruna Kwasi**
+**Nyamekye Jeremiah Sarpong**
+**Aboagye Blessed Asare**
+**Mohammed Iddrisu**
+**Agyemang Joel**
