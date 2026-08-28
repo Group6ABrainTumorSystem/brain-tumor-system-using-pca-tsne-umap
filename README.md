@@ -161,6 +161,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
+---
+
+## Institution
+
+**University:**University of Energy and Natural Resources, Sunyani(UENR)
+**Department:**Information Technology and Decision Science(ITDS)
+**Supervisor:**Professor Peter Appiahene (Dean of Schoool of Science)
+
+---
+
 ## Authors
 
 - [ ] Abdulai Haruna Kwasi
