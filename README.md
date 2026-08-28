@@ -163,8 +163,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Authors
 
-**Abdulai Haruna Kwasi**
-**Nyamekye Jeremiah Sarpong**
-**Aboagye Blessed Asare**
-**Mohammed Iddrisu**
-**Agyemang Joel**
+**Abdulai Haruna Kwasi
+**Nyamekye Jeremiah Sarpong
+**Aboagye Blessed Asare
+**Mohammed Iddrisu
+**Agyemang Joel
