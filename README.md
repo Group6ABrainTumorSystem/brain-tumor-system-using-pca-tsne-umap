@@ -92,8 +92,8 @@ Training accuracy is lower than validation accuracy because of dropout and data 
 
 ### 1. Clone the repository
 
-    git clone https://github.com/kofi-takyi-agyeman/neuroscan.git
-    cd neuroscan
+    git clone https://github.com/Group6ABrainTumorSystem/brain-tumor-system-using-pca-tsne-umap.git
+    cd brain-tumor-system-using-pca-tsne-umap
 
 ### 2. Set up the backend
 
